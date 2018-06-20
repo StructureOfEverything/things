@@ -1,0 +1,14 @@
+#
+# hierarchical overview of thing entities
+#
+
+universe:
+  galactic supercluster:
+    galaxy:
+      galactic center:
+        black hole:
+        galactic life:
+          # ...
+        dyson sphere:
+      galaxy arm:
+        # ...
