@@ -1,0 +1,33 @@
+# long notation of a thing
+# easy to read, easy to extend
+
+key: interstellar cloud
+is: [
+    'helium', 'hydrogen', 'carbon,80%', 'water,5%', 'ammonia,5%',
+    'nitrogen,5%', 'iron,5%', 'sulfur,5%', 'oxygen,15%'
+]
+name:
+    en: [
+        [
+            'a bright pink', 'a faint', 'a fading', 'a pale', 'a fluo',
+            'a glowing', 'a green', 'a bright green', 'a dark brown',
+            'a brooding', 'a magenta', 'a bright red', 'a dark red',
+            'a blueish', 'a deep blue', 'a turquoise', 'a teal', 'a golden',
+            'a multicolored', 'a silver', 'a dramatic', 'a luminous',
+            'a colossal', 'a purple', 'a gold-trimmed', 'an opaline',
+            'a silvery', 'a shimmering'
+        ],
+        [' '],
+        ['interstellar cloud']
+    ]
+    de: [
+        ['eine '],
+        [
+            'rosa', 'blasse', 'leuchtende', 'grüne', 'hellgrüne', 'dunkelbraune',
+            'hellrote', 'dunkelrote', 'bläuliche', 'tiefblaue', 'türkise', 'blaugrüne',
+            'goldene', 'silberne', 'dramatische', 'leuchtende', 'kolossale', 'purpurne',
+            'silbrige', 'schimmernde',
+        ],
+        [' '],
+        ['interstellare Wolke']
+    ]

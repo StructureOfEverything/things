@@ -1,0 +1,17 @@
+# short notation of things
+# in the first place for the port of the original nested things
+# plus:
+# - enrich / extend
+# - localization (en, de, fr, ...)
+
+# EXAMPLE:
+#
+# OLD (original JavaScript example thing):
+# new Thing("tree",["tree thoughts,2%","tree trunk","branches","leaves","nest,5%","nest,2%","fruits,20%","flowers,20%"],["larch","fir","oak","birch","pine","sequoia","cedar","spruce","ash","poplar","elm","sycamore","willow","mahogany","laurel","orange tree","lemon tree","palm tree","coconut tree","pear tree","apple tree","walnut tree","olive tree"]);
+#
+# NEW (YAML example thing):
+tree: {is: ["tree thoughts,2%","tree trunk","branches","leaves","nest,5%","nest,2%","fruits,20%","flowers,20%"], en: ["larch","fir","oak","birch","pine","sequoia","cedar","spruce","ash","poplar","elm","sycamore","willow","mahogany","laurel","orange tree","lemon tree","palm tree","coconut tree","pear tree","apple tree","walnut tree","olive tree"], de: ["Lärche", "Tanne", "Eiche", "Birke", "Kiefer", "Mammutbaum", "Zeder", "Fichte", "Esche", "Pappel", "Ulme", "Bergahorn", "Weide", "Mahagoni", "Lorbeer", "Orangenbaum", "Zitronenbaum", "Palme", "Kokosnussbaum", "Birnbaum", "Apfelbaum", "Walnussbaum", "Olivenbaum"]}
+
+# original nested port below:
+
+# ...
